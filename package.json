@@ -10,6 +10,11 @@
     "serve": "node lib/index",
     "test" : "jest"
   },
+  "jest": {
+    "testMatch": [
+        "**/?(*.)+(spec|test).[j]s?(x)"
+    ]
+},
   "dependencies": {
     "express": "^4.17.1",
     "typescript": "^4.2.4"
