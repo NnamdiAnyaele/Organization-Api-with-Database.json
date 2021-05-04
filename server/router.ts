@@ -22,7 +22,7 @@ router.get("/", (req: Request, res: Response) => {
     if (err) {
       return res.status(404).send("Database does not exist");
     } else {
-      res.status(200).json(data);
+      res.status(200).json(JSON.parse(data));
     }
   });
 });
