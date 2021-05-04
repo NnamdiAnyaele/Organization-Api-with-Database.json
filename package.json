@@ -1,16 +1,33 @@
 {
-  "name": "week-6-task",
-  "version": "0.0.0",
-  "private": true,
+  "name": "week-6-node-007-NnamdiAnyaele",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/decadevs/week-6-node-007-NnamdiAnyaele.git",
+  "author": "NnamdiAnyaele <nnamdianya2011@gmail.com>",
+  "license": "MIT",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node lib/index",
+    "serve": "node lib/index",
+    "test" : "jest"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
-    "morgan": "~1.9.1"
-  }
+    "express": "^4.17.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "@babel/preset-typescript": "^7.13.0",
+    "@types/express": "^4.17.11",
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.0.1",
+    "@types/supertest": "^2.0.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7",
+    "supertest": "^6.1.3"
+  },
+  "include": [
+    "./server"
+  ]
 }
