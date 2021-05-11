@@ -62,7 +62,7 @@
    {
       "organization": "bayern",
       "createdAt": "2021-05-03T14:18:57.316Z",
-      "updatedAt": "2021-05-04T22:21:13.213Z",
+      "updatedAt": "2021-05-11T01:31:58.082Z",
       "products": [
          "footballers",
          "club merchandise"
@@ -124,8 +124,8 @@
    },
    {
       "organization": "PSG",
-      "createdAt": "2021-05-04T16:59:29.101Z",
-      "updatedAt": "2021-05-04T16:59:29.101Z",
+      "createdAt": "2021-05-11T01:58:30.893Z",
+      "updatedAt": "2021-05-11T01:58:30.893Z",
       "products": [
          "developers",
          "pizza"
@@ -135,196 +135,6 @@
       "ceo": "cn",
       "country": "Taiwan",
       "id": 7,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:00:07.735Z",
-      "updatedAt": "2021-05-04T17:00:07.735Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 8,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:07:08.215Z",
-      "updatedAt": "2021-05-04T17:07:08.215Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 10,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:08:47.846Z",
-      "updatedAt": "2021-05-04T17:08:47.846Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 11,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:12:49.207Z",
-      "updatedAt": "2021-05-04T17:12:49.207Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 12,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:13:18.783Z",
-      "updatedAt": "2021-05-04T17:13:18.783Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 13,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:15:36.979Z",
-      "updatedAt": "2021-05-04T17:15:36.979Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 14,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T17:18:34.771Z",
-      "updatedAt": "2021-05-04T17:18:34.771Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 10,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T22:08:58.575Z",
-      "updatedAt": "2021-05-04T22:08:58.575Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 11,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T22:14:01.969Z",
-      "updatedAt": "2021-05-04T22:14:01.969Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 10,
-      "noOfEmployees": 2,
-      "employees": [
-         "james bond",
-         "jackie chan"
-      ]
-   },
-   {
-      "organization": "PSG",
-      "createdAt": "2021-05-04T22:21:13.117Z",
-      "updatedAt": "2021-05-04T22:21:13.117Z",
-      "products": [
-         "developers",
-         "pizza"
-      ],
-      "marketValue": "90%",
-      "address": "sangotedo",
-      "ceo": "cn",
-      "country": "Taiwan",
-      "id": 11,
       "noOfEmployees": 2,
       "employees": [
          "james bond",
